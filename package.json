@@ -1,0 +1,16 @@
+{
+  "name": "wallmanager",
+  "version": "1.0.0",
+  "description": "DeltaWall's configuration manager",
+  "main": "src/index.js",
+  "repository": "https://github.com/DeltaDevOp/wallmanager.git",
+  "author": "Daniel Hyders <git@bean.codes>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "minecraft-query": "^1.0.9",
+    "node-fetch": "^2.6.1",
+    "ssh2-promise": "^1.0.0"
+  }
+}

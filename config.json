@@ -1,0 +1,8 @@
+{
+    "hosts": [
+        "ca1.wall.deltasec.systems",
+        "fr1.wall.deltasec.systems",
+        "gb1.wall.deltasec.systems"
+    ],
+    "directives": "directives"
+}

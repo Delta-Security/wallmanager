@@ -86,3 +86,8 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Lockfile
+yarn.lock
+package-lock.json
+sshkey

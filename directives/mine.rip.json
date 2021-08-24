@@ -1,0 +1,22 @@
+{
+  "domainName": "mine.rip",
+  "listenTo": ":25565",
+  "proxyTo": "158.69.165.195:45585",
+  "proxyBind": "0.0.0.0",
+  "realIp": true,
+  "proxyProtocol": true,
+  "timeout": 1000,
+  "disconnectMessage": "MineRIP is currently undergoing maintenance. Please try again later.",
+  "onlineStatus": {
+    "versionName": "DeltaWall 1.7.0-1.8.9",
+    "protocolNumber": 47,
+    "maxPlayers": 1
+  },
+  "offlineStatus": {
+    "versionName": "Undergoing maintenance",
+    "protocolNumber": 0,
+    "maxPlayers": 1,
+    "playersOnline": 0,
+    "motd": "Server is undergoing maintenance"
+  }
+}
